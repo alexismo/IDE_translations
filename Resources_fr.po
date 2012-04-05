@@ -49,7 +49,7 @@ msgstr "Nouveau"
 
 #: Editor.java:494 Base.java:900
 msgid "Open..."
-msgstr "Charger..."
+msgstr "Ouvrir..."
 
 #: Editor.java:503
 msgid "Sketchbook"
